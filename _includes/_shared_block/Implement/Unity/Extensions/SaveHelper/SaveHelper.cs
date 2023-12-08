@@ -16,6 +16,21 @@ public static partial class SaveHelper
         Debug.Log($"File is saved. \n Path : {path} \n Data : {data}");
     }
 
+    public static string LoadFile(string path, string fileName)
+    {
+        string filePath = path + "/" + fileName;
+
+        if (System.IO.File.Exists(filePath))
+        {
+            return System.IO.File.ReadAllText(filePath);
+        }
+        else
+        {
+            Debug.LogError($"File is not exist. \n Path : {path}");
+            return null;
+        }
+    }
+
     /// <summary>
     /// 상위 디렉토리를 반환합니다.
     /// </summary>
