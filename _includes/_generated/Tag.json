@@ -49,6 +49,7 @@
   "Multithread",
   "UI",
   "Math",
+  "ContinuumEquation",
   "Noise",
   "Network",
   "Container",

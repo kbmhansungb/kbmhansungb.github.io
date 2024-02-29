@@ -2187,6 +2187,14 @@
     "Path": "_includes/_shared_block/Implement/Unity_UI_FitInRect.md"
   },
   {
+    "Name": "ContinummEquation",
+    "Tag": [
+      "Math",
+      "ContinuumEquation"
+    ],
+    "Path": "_includes/_shared_block/Math/ContinuumEquation/ContinummEquation.md"
+  },
+  {
     "Name": "PerlineNoise",
     "Tag": [
       "Math",
