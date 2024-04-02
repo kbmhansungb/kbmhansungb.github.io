@@ -214,6 +214,14 @@
     "Path": "_includes/_shared_block/AlgorithmAndDataStruct/Sort/SelectionSort.md"
   },
   {
+    "Name": "Pix2Pix",
+    "Tag": [
+      "ArtificialIntelligence",
+      "Image"
+    ],
+    "Path": "_includes/_shared_block/ArtificialIntelligence/Image/Pix2Pix.md"
+  },
+  {
     "Name": "LLM",
     "Tag": [
       "ArtificialIntelligence"
