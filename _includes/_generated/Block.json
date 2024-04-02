@@ -214,6 +214,14 @@
     "Path": "_includes/_shared_block/AlgorithmAndDataStruct/Sort/SelectionSort.md"
   },
   {
+    "Name": "GAN",
+    "Tag": [
+      "ArtificialIntelligence",
+      "Image"
+    ],
+    "Path": "_includes/_shared_block/ArtificialIntelligence/Image/GAN.md"
+  },
+  {
     "Name": "Pix2Pix",
     "Tag": [
       "ArtificialIntelligence",
