@@ -630,6 +630,13 @@
     "Path": "_includes/_shared_block/Concept/KanbanBoard.md"
   },
   {
+    "Name": "MapCoordinate",
+    "Tag": [
+      "Concept"
+    ],
+    "Path": "_includes/_shared_block/Concept/MapCoordinate.md"
+  },
+  {
     "Name": "NVR",
     "Tag": [
       "Concept"

@@ -221,6 +221,11 @@
   },
   {
     "Type": "Content",
+    "Name": "MapCoordinate",
+    "Path": "https://github.com/kbmhansungb/kbmhansungb.github.io/blob/master/_includes/_shared_block/Concept/MapCoordinate.md"
+  },
+  {
+    "Type": "Content",
     "Name": "NVR",
     "Path": "https://github.com/kbmhansungb/kbmhansungb.github.io/blob/master/_includes/_shared_block/Concept/NVR.md"
   },
