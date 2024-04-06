@@ -322,6 +322,13 @@
     "Path": "_includes/_shared_block/BrainScience/RewardCircuit.md"
   },
   {
+    "Name": "BusinessValue",
+    "Tag": [
+      "Collection"
+    ],
+    "Path": "_includes/_shared_block/Collection/BusinessValue.md"
+  },
+  {
     "Name": "Communication",
     "Tag": [
       "Collection"

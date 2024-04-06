@@ -1,6 +1,11 @@
 [
   {
     "Type": "Content",
+    "Name": "BusinessValue",
+    "Path": "https://github.com/kbmhansungb/kbmhansungb.github.io/blob/master/_includes/_shared_block/Collection/BusinessValue.md"
+  },
+  {
+    "Type": "Content",
     "Name": "Communication",
     "Path": "https://github.com/kbmhansungb/kbmhansungb.github.io/blob/master/_includes/_shared_block/Collection/Communication.md"
   },
