@@ -245,6 +245,22 @@
     "Path": "_includes/_shared_block/ArtificialIntelligence/LLM.md"
   },
   {
+    "Name": "DecisionTree",
+    "Tag": [
+      "ArtificialIntelligence",
+      "MachineLearning"
+    ],
+    "Path": "_includes/_shared_block/ArtificialIntelligence/MachineLearning/DecisionTree.md"
+  },
+  {
+    "Name": "RandomForest",
+    "Tag": [
+      "ArtificialIntelligence",
+      "MachineLearning"
+    ],
+    "Path": "_includes/_shared_block/ArtificialIntelligence/MachineLearning/RandomForest.md"
+  },
+  {
     "Name": "Blog_01_Purpose",
     "Tag": [
       "Blog"
