@@ -2291,6 +2291,14 @@
     "Path": "_includes/_shared_block/Math/Noise/PerlineNoise.md"
   },
   {
+    "Name": "Comunication",
+    "Tag": [
+      "Network",
+      "Network"
+    ],
+    "Path": "_includes/_shared_block/Network/Network/Comunication.md"
+  },
+  {
     "Name": "Network",
     "Tag": [
       "Network",
