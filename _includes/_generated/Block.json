@@ -681,6 +681,13 @@
     "Path": "_includes/_shared_block/Concept/Pivot.md"
   },
   {
+    "Name": "PoC",
+    "Tag": [
+      "Concept"
+    ],
+    "Path": "_includes/_shared_block/Concept/PoC.md"
+  },
+  {
     "Name": "ProgramSolving",
     "Tag": [
       "Concept"
