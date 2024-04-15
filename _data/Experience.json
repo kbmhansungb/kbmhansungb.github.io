@@ -246,6 +246,11 @@
   },
   {
     "Type": "Content",
+    "Name": "PoC",
+    "Path": "https://github.com/kbmhansungb/kbmhansungb.github.io/blob/master/_includes/_shared_block/Concept/PoC.md"
+  },
+  {
+    "Type": "Content",
     "Name": "ProgramSolving",
     "Path": "https://github.com/kbmhansungb/kbmhansungb.github.io/blob/master/_includes/_shared_block/Concept/ProgramSolving.md"
   },
