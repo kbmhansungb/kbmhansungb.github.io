@@ -261,6 +261,13 @@
     "Path": "_includes/_shared_block/ArtificialIntelligence/MachineLearning/RandomForest.md"
   },
   {
+    "Name": "UsePyTorchForTrainAI",
+    "Tag": [
+      "ArtificialIntelligence"
+    ],
+    "Path": "_includes/_shared_block/ArtificialIntelligence/UsePyTorchForTrainAI.md"
+  },
+  {
     "Name": "Blog_01_Purpose",
     "Tag": [
       "Blog"
