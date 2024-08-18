@@ -25,6 +25,23 @@ public class NewBehaviourScript : MonoBehaviour {
 }
 ```
 
-## 결론
+### HTML Unity 데이터 교환
+다음 예시는 URL 파라미터를 Unity에서 읽어오는 예시 코드입니다.
+
+```JavaScript
+    GetName: function () {
+        // Name Parameter를 리턴합니다.
+        var url = new URL(window.location);
+        var params = url.searchParams;
+
+        // 예를들어 URL이 다음과 같으면 "http://127.0.0.1:5500/index.html?name=temp" 파라미터 name의 값은 temp가 됩니다.
+        var name = params.get("name");
+
+        // console.log("url: " + url);
+        // console.log("name: " + name);
+        return name;
+    }
+```
+
 ### 참고
 * [Unity Documentation, "WebGL: 브라우저 스크립트와 상호작용"](https://docs.unity3d.com/kr/2023.2/Manual/webgl-interactingwithbrowserscripting.html)
